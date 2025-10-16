@@ -8,3 +8,4 @@ A URL to scrape, or
 An HTML file to upload
 Then, describe the type of data you want — and the scraper automatically extracts relevant, structured information (CSV, JSON, etc.) using local or API-based Large Language Models (like Ollama, OpenRouter, or OpenAI).
 
+
